@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\JSP_Test\서블릿source\JSPWorkshop39"/>
+			<item value="C:\JSP_Test\서블릿source\10__EL_chul"/>
+			<item value="C:\JSP_Test\서블릿source\JSPWorkshop38"/>
+			<item value="C:\JSP_Test\서블릿source\JSPWorkshop37"/>
+			<item value="C:\JSP_Test\서블릿source\JSPWorkshop36"/>
+			<item value="C:\JSP_Test\서블릿source\JSPWorkshop34"/>
+			<item value="C:\JSP_Test\서블릿source\JSPWorkshop46"/>
+			<item value="C:\JSP_Test\서블릿source\JSPWorkshop45"/>
+			<item value="C:\JSP_Test\서블릿source\JSPWorkshop44"/>
+			<item value="C:\JSP_Test\서블릿source\JSPWorkshop43"/>
+			<item value="C:\JSP_Test\서블릿source\JSPWorkshop05_jsVersion"/>
+			<item value="C:\JSP_Test\서블릿source\JSPWorkshop41_1"/>
+			<item value="C:\JSP_Test\서블릿source\09_mybatis"/>
+			<item value="C:\JSP_Test\서블릿source\06_안되잖아요청위임1_redirect_chul"/>
+			<item value="C:\JSP_Test\서블릿source\08_세션처리2_sessionl"/>
+			<item value="C:\JSP_Test\서블릿source\05_Servlet_Filter"/>
+			<item value="C:\JSP_Test\서블릿source\05_Servlet_Filterl"/>
+			<item value="C:\JSP_Test\서블릿source\JSPWorkshop12"/>
+			<item value="C:\eclipse\JDBC 소스폴더\JDBC_MyBatis_Ver_1"/>
+			<item value="C:\JSP_Test\서블릿source\JSPWorkshop5"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="430"/>
+		<item key="DIALOG_Y_ORIGIN" value="-32"/>
+		<item key="DIALOG_WIDTH" value="613"/>
+		<item key="DIALOG_HEIGHT" value="645"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+</section>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<servlet>
+  <servlet-name>my</servlet-name>
+  <servlet-class>com.test.MyServlet</servlet-class>
+  </servlet>
+<servlet-mapping>
+  <servlet-name>my</servlet-name>
+  <url-pattern>/info</url-pattern>
+  </servlet-mapping>
+  
+  </web-app>
+</body>
+</html>
