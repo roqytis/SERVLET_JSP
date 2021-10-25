@@ -1,0 +1,4 @@
+1. webContent-web-inf-lib에 로그백 및 드라이버(오라클, 마이바티스) jstl jar
+2. src 밑에 logback.xml
+
+empList.jsp로 실행
