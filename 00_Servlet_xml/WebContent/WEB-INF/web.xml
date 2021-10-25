@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" id="WebApp_ID" version="3.1">
+  <display-name>00_Servlet_xml_chul</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+<servlet>
+<servlet-name>helloServlet</servlet-name><!-- 2.서블릭에 별칭 부여 -->
+<servlet-class>com.controller.HelloServlet</servlet-class><!-- 1.클래스 패키지명, 서블릿명 -->
+</servlet>
+<servlet-mapping>
+<servlet-name>helloServlet</servlet-name><!-- 3.매핑시킬 서블릿의 별칭지정 -->
+<url-pattern>/world</url-pattern><!-- 4.마지막: 매핑주소 설정 -->
+</servlet-mapping>
+
+
+</web-app>
